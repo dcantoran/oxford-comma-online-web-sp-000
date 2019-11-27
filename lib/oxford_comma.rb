@@ -1,6 +1,6 @@
 require "pry"
 def oxford_comma(array)
-  str_arr = array.to_s
+  # str_arr = array.to_s
   # binding.pry
   
   if array.length == 1 
